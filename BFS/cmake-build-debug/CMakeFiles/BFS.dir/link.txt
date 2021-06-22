@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/BFS.dir/main.cpp.o -o BFS.exe -Wl,--out-implib,libBFS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
